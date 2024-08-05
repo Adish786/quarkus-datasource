@@ -1,0 +1,6 @@
+com\active\activerecord\resources\CustomerResource.class
+com\active\dao\enity\Employee.class
+com\active\errorhandler\ErrorMapper.class
+com\active\activerecord\entity\Customer.class
+com\active\dao\repository\EmployeeRespository.class
+com\active\dao\resources\EmployeeResource.class
